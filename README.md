@@ -86,7 +86,7 @@ This lecture motivates the practical segment of the course.
 ## 5. Lecture 3 - Language Modelling and RNNs Part 1 [Phil Blunsom]
 Language modelling is important task of great practical use in many NLP applications. This lecture introduces language modelling, including traditional n-gram based approaches and more contemporary neural approaches. In particular the popular Recurrent Neural Network (RNN) language model is introduced and its basic training and evaluation algorithms described.
 
-[[slides]](Lecture-03_Language_Modelling_and_RNNs-Part1.pdf)
+[[slides]](Lecture-03_Language-Modelling-and-RNNs-Part1.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_3_modelling_1.mp4)
 
 ### Reading
@@ -102,7 +102,7 @@ Language modelling is important task of great practical use in many NLP applicat
 ## 6. Lecture 4 - Language Modelling and RNNs Part 2 [Phil Blunsom]
 This lecture continues on from the previous one and considers some of the issues involved in producing an effective implementation of an RNN language model. The vanishing and exploding gradient problem is described and architectural solutions, such as Long Short Term Memory (LSTM), are introduced. 
 
-[[slides]](Lecture-04_LanguageModelling-and-Rnns-Part2.pdf)
+[[slides]](Lecture-04_Language-Modelling-and-RNNs-Part2.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_4_modelling_2.mp4)
 
 ### Reading
@@ -149,7 +149,7 @@ This lecture discusses text classification, beginning with basic classifiers, su
 ## 8. Lecture 6 - Deep NLP on Nvidia GPUs [Jeremy Appleyard]
 This lecture introduces Graphical Processing Units (GPUs) as an alternative to CPUs for executing Deep Learning algorithms. The strengths and weaknesses of GPUs are discussed as well as the importance of understanding how memory bandwidth and computation impact throughput for RNNs.
 
-[[slides]](Lecture-06_Nvidia-Rnns-and-GPUs.pdf)
+[[slides]](Lecture-06_Nvidia-RNNs-and-GPUs.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_6_nvidia_gpus.mp4)
 
 ### Reading
